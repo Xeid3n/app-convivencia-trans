@@ -38,3 +38,6 @@ yarn-error.*
 
 # Ignorar o arquivo de configuração do Firebase
 firebaseConfig.js
+
+# iGNORA isso aqui 
+google-services.json
