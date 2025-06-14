@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982334185769",
+    "project_id": "app-comunidade-trans",
+    "storage_bucket": "app-comunidade-trans.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982334185769:android:3e8377b68c0caebdde9738",
+        "android_client_info": {
+          "package_name": "com.seuusuario.appcomunidadetrans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA39wonO6BMNpQyMwXKP9jNJ35l_kwKaEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

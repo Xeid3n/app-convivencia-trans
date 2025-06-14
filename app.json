@@ -20,10 +20,20 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.seuusuario.appcomunidadetrans"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+
+    "plugins": [
+      "expo-image-picker" 
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b46d7c92-96ac-49ed-a0eb-136431086188"
+      }
     }
   }
 }
